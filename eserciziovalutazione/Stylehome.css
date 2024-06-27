@@ -1,0 +1,58 @@
+.listaServizi{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    margin: 15px;
+}
+footer{
+    height:100%;
+    margin-top: 2rem;
+    background-color: rgb(20, 20, 20);
+    }
+    .sep{
+        padding-bottom: 5px;
+    }
+    footer div p,ul,li,a {
+        color : rgb(223, 223, 223);
+    }
+    .cent{
+        text-align: center;
+        margin-bottom: 0%;
+    }
+    .rimpall{
+        list-style-type: none;
+        flex-direction: column;
+    }
+    .imgProm{
+        width: 300px;
+        height: 300px;
+    }
+    .imgLib{
+        height: 200px;
+        width: 150px;
+    }
+    .btnpre{
+        color: rgb(58, 23, 114);
+        background-color: rgb(191, 161, 237);
+        border-radius: 10%;
+    }
+    .btnpre:hover{
+        background-color: rgb(207, 139, 1);
+    }
+   .bottoneServizi{
+    margin: 16px;
+   }
+    .cover{
+        display: flex;
+
+    }
+    .footer{
+        display:flex;
+        justify-content: space-evenly;
+        margin-bottom: 0%;
+    }
+     
+.card-body{
+    height: 10px;
+}
